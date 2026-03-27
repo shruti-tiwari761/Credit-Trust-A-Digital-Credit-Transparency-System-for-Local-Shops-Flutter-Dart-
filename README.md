@@ -51,6 +51,3 @@
 ### 5️⃣ Run the App
     flutter run
 
---
-
- if you like this project!
