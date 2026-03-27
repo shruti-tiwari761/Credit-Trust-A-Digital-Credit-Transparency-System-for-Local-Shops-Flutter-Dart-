@@ -5,7 +5,7 @@ class MongoService {
   // MongoDB Atlas or local URI - Using a placeholder local URI for now
   // For production, this should be moved to a secure configuration
   // Integrated MongoDB Atlas (Cloud) for universal wireless access.
-  static const String _mongoUrl = "mongodb+srv://shrutitiwari4618:%40Shruti123@creditcluster.pxoc5bn.mongodb.net/credit_trust_db?retryWrites=true&w=majority";
+  static const String _mongoUrl = "";
   static const String _collectionName = "product";
 
   static Db? _db;
