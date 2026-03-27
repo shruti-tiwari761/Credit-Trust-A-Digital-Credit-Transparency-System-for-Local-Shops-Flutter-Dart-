@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "731970895622",
+    "project_id": "credittrust-8b382",
+    "storage_bucket": "credittrust-8b382.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731970895622:android:21dd7a22829f69e384a887",
+        "android_client_info": {
+          "package_name": "com.example.credit_trust"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUSB5NBh5ISfn6sfRDrXEzisHOqp_UEhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
